@@ -15,6 +15,7 @@ Installation:
 Go to https://netbeans.org and download the Netbeans IDE 8.2 version.then install the application and open it.
 Be sure to check if Java SE Development Kit 8 is installed in your computer otherwise download and install it from here: 
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 Procedure:
 ----------
 -step1. Extract the Portfolio.
@@ -27,4 +28,3 @@ Credits:
 -------
 1. Udacity for the course and design mockup.
 2. Google for images.
-3. 
